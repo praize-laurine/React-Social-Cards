@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Social-Cards/static/css/main.97485c5f.chunk.css",
+    "main.js": "/React-Social-Cards/static/js/main.d94b8cdb.chunk.js",
+    "main.js.map": "/React-Social-Cards/static/js/main.d94b8cdb.chunk.js.map",
+    "runtime-main.js": "/React-Social-Cards/static/js/runtime-main.fec7777c.js",
+    "runtime-main.js.map": "/React-Social-Cards/static/js/runtime-main.fec7777c.js.map",
+    "static/js/2.4cc5bb97.chunk.js": "/React-Social-Cards/static/js/2.4cc5bb97.chunk.js",
+    "static/js/2.4cc5bb97.chunk.js.map": "/React-Social-Cards/static/js/2.4cc5bb97.chunk.js.map",
+    "static/js/3.94397ff9.chunk.js": "/React-Social-Cards/static/js/3.94397ff9.chunk.js",
+    "static/js/3.94397ff9.chunk.js.map": "/React-Social-Cards/static/js/3.94397ff9.chunk.js.map",
+    "index.html": "/React-Social-Cards/index.html",
+    "static/css/main.97485c5f.chunk.css.map": "/React-Social-Cards/static/css/main.97485c5f.chunk.css.map",
+    "static/js/2.4cc5bb97.chunk.js.LICENSE.txt": "/React-Social-Cards/static/js/2.4cc5bb97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fec7777c.js",
+    "static/js/2.4cc5bb97.chunk.js",
+    "static/css/main.97485c5f.chunk.css",
+    "static/js/main.d94b8cdb.chunk.js"
+  ]
+}
