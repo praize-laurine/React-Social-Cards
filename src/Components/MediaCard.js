@@ -20,7 +20,7 @@ export default function MediaCard() {
       <CardActionArea>
         <div className="header">
           <img src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-pinterest.png?w=585&scale=downhttps://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" alt="" />
-          <h1 className="title">Do you like Ankara dresses? <b>This is the place to be!</b></h1>
+          <h1 className="title">Loves Ankara dresses? <b>This is the place to be!</b></h1>
           <div className="auther">
             <div className="autherWrapper">
               <h1>Laurine Praise</h1>
